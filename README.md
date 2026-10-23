@@ -29,7 +29,8 @@ My projects will showcase practical applications of data cleaning, exploratory d
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sobhy-Hagag
-- Linkedin: linkedin.com/in/sobhy-hagag-0767aa390‏
+- Linkedin: 
+‏linkedin.com/in/sobhy-hagag-0767aa390‏
 - Kaggle: https://www.kaggle.com/sobhyhagag
 
 *Learning, building, and growing through data.*
